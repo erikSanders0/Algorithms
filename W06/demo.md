@@ -1,2 +1,4 @@
 ## Data Recovery Tutorial
 
+> *The most simple way to back up a computer is to copy over folders from a directory and then paste them onto either a cloud or physical device so that if anything happens to the local device you can recover the data from the backup.*
+> This can be done by simply inserting the device into your computer and then finding the material you want to back and select it and copy it by pressing Ctrl + C. You can then paste it by using Ctrl + V. Once this is done you can remove the device and save it for a rainy day. Take good care of it and be sure to recopy the data every now and then to make sure that the data is still intact.
